@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @D1nyx
+- 👀 I’m interested in basketball and programming.
+- 🌱 I’m currently learning mysql and dart.
+- 📫 How to reach me @melnykdinis (insta)
+- ⚡ Fun fact: Im tall.
