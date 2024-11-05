@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @D1nyx
 - 👀 I’m interested in basketball and programming.
 - 🌱 I’m currently learning mysql and dart.
-- ⚡ Fun fact: Im tall.
+- ⚡ Fun fact: Im 6'5".
